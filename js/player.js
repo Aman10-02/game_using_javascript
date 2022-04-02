@@ -72,7 +72,7 @@ let PlayerMoves = {
                          getEnemyHealth.innerHTML = 'Health: ' + enemy.health;
                     } else {
                          getPlayerHealth.innerHTML = 'Health: ' + player.health;
-                         getEnemyHealth.innerHTML = 'Health: ' + enemy.health;
+                        
                     }
                }
 
@@ -102,7 +102,7 @@ let PlayerMoves = {
                          getPlayerHealth.innerHTML = 'Health: ' + player.health;
                     } else {
                          getEnemyHealth.innerHTML = 'Health: ' + enemy.health;
-                         getPlayerHealth.innerHTML = 'Health: ' + player.health;
+                         
                     }
                }
 
